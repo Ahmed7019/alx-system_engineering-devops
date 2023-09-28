@@ -6,3 +6,4 @@ mv command of for moving one file or rename it
 rm to delete fil
 rmdir to remove directory
 cd -  to change directory to the previous onee
+ln -s  to create a sybol link
