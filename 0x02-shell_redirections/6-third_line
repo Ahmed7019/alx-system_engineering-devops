@@ -1,2 +1,2 @@
 #!/bin/bash
-awk "NR==3" /tmp/h
+head -3 /tmp/h | tail +3
